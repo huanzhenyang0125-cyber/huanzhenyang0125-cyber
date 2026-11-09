@@ -14,7 +14,16 @@ A personal finance prototype for exploring accounts, allocations and returns.
 A local-first health application for everyday records and trends.
 [Case study](https://huanzhenyang0125-cyber.github.io/Developer-Portfolio/case-studies/whip.html) · [Application](https://whip-health.pages.dev)
 
-### More projects
-An industrial product catalogue and enquiry portal, and a dual-interface literature request prototype.
+### Career and Study Explorer
+An interactive prototype for exploring study choices, career directions and university applications in Jiangsu. Information should be checked against current official sources.
+[Explore the prototype](https://huanzhenyang0125-cyber.github.io/Developer-Portfolio/jiangsu-gaokao/)
+
+### Honest Tools
+An industrial product catalogue organised around product selection and enquiry.
+[View project](https://honest-tools.pages.dev)
+
+### Academic Express
+A two-sided prototype for literature requests, pricing and order handling.
+[View project](https://academic-express.pages.dev)
 
 [Explore the full portfolio](https://huanzhenyang0125-cyber.github.io/Developer-Portfolio/)
