@@ -1,16 +1,20 @@
-## Hi there 👋
+# Projects
 
-<!--
-**huanzhenyang0125-cyber/huanzhenyang0125-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A collection of work in financial analytics, product design and interactive applications.
 
-Here are some ideas to get you started:
+### Credit Risk Decision Lab
+Historical credit-card default modelling, model evaluation and review-capacity analysis.
+[Interactive dashboard](https://huanzhenyang0125-cyber.github.io/default-credit-card-prediction/) · [Research and code](https://github.com/huanzhenyang0125-cyber/default-credit-card-prediction)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Wealth Pro
+A personal finance prototype for exploring accounts, allocations and returns.
+[Case study](https://huanzhenyang0125-cyber.github.io/Developer-Portfolio/case-studies/wealth-pro.html) · [Prototype](https://wealth-pro-ehw.pages.dev)
+
+### WHIP Personal Health OS
+A local-first health application for everyday records and trends.
+[Case study](https://huanzhenyang0125-cyber.github.io/Developer-Portfolio/case-studies/whip.html) · [Application](https://whip-health.pages.dev)
+
+### More projects
+An industrial product catalogue and enquiry portal, and a dual-interface literature request prototype.
+
+[Explore the full portfolio](https://huanzhenyang0125-cyber.github.io/Developer-Portfolio/)
